@@ -41,4 +41,4 @@
 
 ## Support
 
-For support and bug reporting, either submit and issue under the github repo - or personally DM me on twitter @NiferEdits with the issue. Please provide log files created by the script under "Installer-files/Logs"
+For support and bug reporting, either submit and issue under the github repo - or personally DM me on twitter @NiferEdits with the issue.
