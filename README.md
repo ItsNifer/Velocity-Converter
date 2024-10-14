@@ -2,6 +2,7 @@
   <img src="https://github.com/ItsNifer/Velocity-Converter/blob/45c9374d6af88b3eeb71a4756db8c525ab954a0d/img/512x512%20icon.png" alt="VC Logo"/>
 </p>
 <p align="center">
+  <a href="https://github.com/ItsNifer/Velocity-Converter/releases/download/v1.0.0/Velocity.Converter.exe"><img alt="Download" src="https://custom-icon-badges.demolab.com/badge/-Download-limegreen?style=for-the-badge&logo=download&logoColor=white"></a>
   <a href="https://twitter.com/NiferEdits"><img alt="Twitter" src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 </p>
 <h1 align="center">Velocity Converter (VC)</h1>
