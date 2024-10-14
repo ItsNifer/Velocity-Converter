@@ -16,6 +16,8 @@
 2. Run the provided .exe file.
 3. Open VEGAS Pro and select a video event with velocity envelopes already on
 4. While the event(s) are selected > Tools > Scripting > 1 - Nifer > Velocity Converter
+5. Choose what time remapping plugin from the VC window to convert to
+6. Additionally, if you want to apply your own preset for the time remapping plugins; simply create a preset of the effect named "Convert". VC will automatically apply the preset.
 
 <p align="left">
   <img src="https://github.com/ItsNifer/Velocity-Converter/blob/5277e228f2de512d24acd2346f1741bd38ea8760/img/VC_menu.png" alt="kbam gif"/>
