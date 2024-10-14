@@ -17,6 +17,10 @@
 3. Open VEGAS Pro and select a video event with velocity envelopes already on
 4. While the event(s) are selected > Tools > Scripting > 1 - Nifer > Velocity Converter
 
+<p align="left">
+  <img src="https://github.com/ItsNifer/Velocity-Converter/blob/5277e228f2de512d24acd2346f1741bd38ea8760/img/VC_menu.png" alt="kbam gif"/>
+</p>
+
 ## ToolBar
 **To assign VC into your VEGAS Pro Toolbar:**
 1. Go into Options > Customize Toolbar
