@@ -14,8 +14,8 @@
 
 ## Usage
 1. Download the [latest](https://github.com/ItsNifer/Velocity-Converter/releases/latest) update from the releases page.
-2. Download the "Velocity Converter Installer.exe" file
-3. Open VEGAS Pro (or restart if it was already open)
+2. Close VEGAS Pro (if it's already open), and run the installer
+3. Open VEGAS Pro
 4. Go into Tools > Extensions > VelocityConverter OR View > Extensions > VelocityConverter
 5. Choose what time remapping plugin from the VC window to convert to
 6. Additionally, if you want to apply your own preset for the time remapping plugins; simply create a preset of the effect named "**Convert**". VC will automatically apply the preset.
